@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Rebecca Conley (she/her) 👋🏻
 
 <!--
 **rlconley/rlconley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a developer/educator/dancer who is inspired by the connections between human and machine systems. I love teaching people how to get the most out of technology 💾
