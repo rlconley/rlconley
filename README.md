@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a developer/educator/dancer who is inspired by the connections between human and machine systems. I love teaching people how to get the most out of technology 💾
+- 👩🏻‍💻 I'm a developer/educator/dancer who is inspired by the connections between human and machine systems. I love teaching people how to get the most out of technology and sharing knowledge in creative ways.
+- 🔎 Looking for my next role in Education, DevRel, Customer Success, and anything Python-related 🐍.
