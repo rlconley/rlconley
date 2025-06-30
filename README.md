@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![487930437_1352350885834455_7223139486097952950_n](https://github.com/user-attachments/assets/4fec9b18-be6b-45a1-80fb-97fda3c386e1)
 
 
 - 👩🏻‍💻 I'm a developer/educator/dancer who is inspired by the connections between human and machine systems. I love teaching people how to get the most out of technology and sharing knowledge in creative ways.
