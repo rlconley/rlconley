@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 -->
 
 
-- 👩🏻‍💻 I'm a developer/educator/dancer who is inspired by the connections between human and machine systems. I love teaching people how to get the most out of technology and sharing knowledge in creative ways.
-- 🔎 Looking for my next role in Education, DevRel, Customer Success, or Data Engineering with Python 🐍.
+- 👩🏻‍💻 I'm a developer and educator who is inspired by the connections between human and machine systems. I love teaching people how to get the most out of technology and sharing knowledge in creative ways.
+- 🔎 Looking to apply my teaching and technical skills to my next position in customer success or training.
+- 📄 Check out my [resumé](https://docs.google.com/document/d/e/2PACX-1vRSLxQPRw37IXIj8MnIwV853W2NZlFAkknJJEmuH7y6uBafK9JBSZJNLXxMIXz_TRRMvvt66CeRzN0_/pub). 
