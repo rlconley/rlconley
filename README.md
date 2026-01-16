@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 
 - 👩🏻‍💻 I'm a developer and educator who is inspired by the connections between human and machine systems. I love teaching people how to get the most out of technology and sharing knowledge in creative ways.
 - 🔎 Looking to apply my teaching and technical skills to my next position in customer success or training.
-- 📄 Check out my [resumé](https://docs.google.com/document/d/e/2PACX-1vRSLxQPRw37IXIj8MnIwV853W2NZlFAkknJJEmuH7y6uBafK9JBSZJNLXxMIXz_TRRMvvt66CeRzN0_/pub). 
+- 💾 Here's a [web development course](https://momentum-pt-team-3.github.io/) that I designed and taught.
+- 📹 Watch me teaching on [video](https://www.loom.com/share/8d10aa8f47ff4b1b81142e71183617ec). 
+- 📄 Check out my [resumé](https://docs.google.com/document/d/e/2PACX-1vRSLxQPRw37IXIj8MnIwV853W2NZlFAkknJJEmuH7y6uBafK9JBSZJNLXxMIXz_TRRMvvt66CeRzN0_/pub).
+- 🎶 Watch me [performing my choreography with my students](https://www.youtube.com/live/M2Ocigxk6g0?si=ll8hIyCA8iZZfVe9&t=2696) in a tap/kathak collaboration.
